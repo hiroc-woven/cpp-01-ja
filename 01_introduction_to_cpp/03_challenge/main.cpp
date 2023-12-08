@@ -51,7 +51,7 @@ int main() {
     std::cout << pi << std::endl;
     std::cout << starsInTheUniverse << std::endl;
     std::cout << aLetter << std::endl;
-    //std::cout << aWord << std::endl;
+    std::cout << aWord << std::endl;
     std::cout << veryPrecisePi << std::endl;
     std::cout << thisIsTrue << std::endl;
     std::cout << thisIsAlsoTrue << std::endl;
