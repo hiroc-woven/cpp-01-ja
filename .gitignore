@@ -1,4 +1,8 @@
 autograder
 build
+<<<<<<< HEAD
 .DS_Store
 .vscode/
+=======
+.DS_Store
+>>>>>>> origin/HEAD
